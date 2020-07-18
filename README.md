@@ -5,4 +5,7 @@ Download the repo and from the downloaded folder run this command:
 
 python main.py
 
+Demo 
+![Demo gif](img.gif?raw=true "Title")
+
 
